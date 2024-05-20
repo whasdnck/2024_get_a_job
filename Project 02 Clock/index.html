@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Clock</title>
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="icon" href="assets/favicon.png">
+</head>
+
+<body>
+  <h2 class="heading">
+    Clock
+  </h2>
+  <div class="clock">
+    <div class="hour">
+      <div class="hr" id="hr"></div>
+    </div>
+    <div class="min">
+      <div class="mn" id="mn"></div>
+    </div>
+    <div class="sec">
+      <div class="sc" id="sc"></div>
+    </div>
+  </div>
+
+  <script type="text/javascript">
+    const deg = 6; // 각도 변화량 (Degree change amount)
+
+// HTML에서 ID를 통해 모든 시계 바늘 요소 가져오기 (Get all clock hand elements from HTML using IDs)
+const hr = document.querySelector('#hr');
+const mn = document.querySelector('#mn');
+const sc = document.querySelector('#sc');
+
+setInterval(() => {
+  let day = new Date(); // 현재 날짜 및 시간 정보 얻기 (Get current date and time information)
+
+  // 시계 바늘 각도 계산 (Calculate clock hand angles)
+  let ms = day.getMilliseconds() * deg; // 밀리초 * 각도 변화량
+  let hh = day.getHours() * 30; // 시针 각도 (Hour hand angle)
+  let mm = day.getMinutes() * deg; // 분침 각도 (Minute hand angle)
+  let ss = day.getSeconds() * deg + ms / 1000; // 초침 각도 (Second hand angle)
+
+  // 시계 바늘 스타일 변경 (Change clock hand styles)
+  hr.style.transform = `rotateZ(${(hh) + (mm / 12)}deg)`; // 시침 회전 (Rotate hour hand)
+  mn.style.transform = `rotateZ(${mm}deg)`; // 분침 회전 (Rotate minute hand)
+  sc.style.transform = `rotateZ(${ss}deg)`; // 초침 회전 (Rotate second hand)
+
+}, 1); // 매 1밀리초마다 실행 (Execute every 1 millisecond)
+
+  </script>
+</body>
+</html>
