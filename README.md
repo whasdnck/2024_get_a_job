@@ -20,3 +20,21 @@
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/b8edf354-d48a-4fef-a0c7-4b0c3723eb6a)
 ## 🍀project Basic Calulator 09🍀
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/bfab85a9-5ac7-4392-aa43-21439062d86c)
+## 🍀Project 10 Weight Converter
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/fb565348-b70d-4438-ae4e-2d6ae26bd925)
+## 🍀Project 11 Todo List
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/ec8dae5c-a7aa-4209-b397-a90a07b3e6fb)
+## 🍀Project 12 Digital Clock Theme
+# white
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/0888cb1d-66e2-4a32-bddc-96949b76763f)
+# black
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/d43e6a62-fceb-422d-8dca-3406ac007717)
+## 🍀Project 13 double-landing-page
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/08950198-75ea-434f-8282-bec73d4ad619)
+## 🍀Project 14 dark-mode-toggle
+# white
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/9b5cd253-03c4-41a2-845b-22167b80620d)
+# black
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/1bbcc0f5-8fd4-4cc5-978b-165b56886505)
+## 🍀Project 15 Dice Roll Simulator
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/b2286811-347b-423a-9d7f-6236767240b3)
