@@ -53,10 +53,10 @@
 # (19~21 projecet 0529)
 ## 🍀Project 19 progress step
 # 클릭 전
-![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/310a2294-05f2-488e-80a1-3b4230980cb8)
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/5e9aff3e-d72e-4df2-8f2e-b2f8373c441c)
 #클릭 후
-![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/32728d46-1cb7-4ce6-b8fb-d5396e2f1fed)
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/806a6d05-a3b2-4532-acb3-aa1ec53d5d23)
 ## 🍀Project 20 note app
-![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/0d1e8065-fe4b-4f64-97aa-f1264a50e9cd)
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/8b5a4147-4c35-4bbc-9416-01ef54c8818b)
 ## 🍀Project 21 live user filter
-![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/2ee8eb70-4a1f-4e56-af19-b5c61ab92c3f)
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/c3ff59d9-42e1-4022-aa39-76972d221216)
