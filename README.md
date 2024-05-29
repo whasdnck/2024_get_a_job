@@ -20,6 +20,7 @@
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/b8edf354-d48a-4fef-a0c7-4b0c3723eb6a)
 ## 🍀project Basic Calulator 09🍀
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/bfab85a9-5ac7-4392-aa43-21439062d86c)
+# (10~12 projecet 0524)
 ## 🍀Project 10 Weight Converter
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/fb565348-b70d-4438-ae4e-2d6ae26bd925)
 ## 🍀Project 11 Todo List
@@ -28,6 +29,7 @@
 # white
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/0888cb1d-66e2-4a32-bddc-96949b76763f)
 # black
+# (13~15 projecet 0527)
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/d43e6a62-fceb-422d-8dca-3406ac007717)
 ## 🍀Project 13 double-landing-page
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/08950198-75ea-434f-8282-bec73d4ad619)
@@ -38,3 +40,13 @@
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/1bbcc0f5-8fd4-4cc5-978b-165b56886505)
 ## 🍀Project 15 Dice Roll Simulator
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/b2286811-347b-423a-9d7f-6236767240b3)
+# (16~18 projecet 0528)
+## 🍀Project 16 Color Game
+# 시작 전
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/3c61ed80-ac2e-41d2-af02-b826c938b50c)
+# 시작 후
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/11fcb56d-20c5-45e0-90ff-4b6d9aba017a)
+## 🍀Project 17 Dice Rolle
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/c09f48f2-ff7e-40f7-a789-97b6625a0e19)
+## 🍀Project 18 Color Picker
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/b2e1ca1b-382e-4e16-a38e-9ed3e0cced76)
