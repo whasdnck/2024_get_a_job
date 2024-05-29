@@ -50,3 +50,13 @@
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/c09f48f2-ff7e-40f7-a789-97b6625a0e19)
 ## 🍀Project 18 Color Picker
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/b2e1ca1b-382e-4e16-a38e-9ed3e0cced76)
+# (19~21 projecet 0529)
+## 🍀Project 19 progress step
+# 클릭 전
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/310a2294-05f2-488e-80a1-3b4230980cb8)
+#클릭 후
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/32728d46-1cb7-4ce6-b8fb-d5396e2f1fed)
+## 🍀Project 20 note app
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/0d1e8065-fe4b-4f64-97aa-f1264a50e9cd)
+## 🍀Project 21 live user filter
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/2ee8eb70-4a1f-4e56-af19-b5c61ab92c3f)
