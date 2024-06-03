@@ -1,4 +1,7 @@
 2024_get_a_job-31101
+# (웹디자인 기능사 프로젝트 0514)
+## 🍀F-1🍀
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/c65c4d90-59d6-4767-9755-79870760ab1d)
 # (1~3 project 0517)
 ## 🍀project Drum 01🍀
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/bab41699-2265-423d-84f8-4de288113817)
