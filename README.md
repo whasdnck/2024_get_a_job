@@ -60,3 +60,19 @@
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/8b5a4147-4c35-4bbc-9416-01ef54c8818b)
 ## 🍀Project 21 live user filter
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/c3ff59d9-42e1-4022-aa39-76972d221216)
+# (22~24 projecet 0603)
+## 🍀Project 22 Pop the balloons
+# 터트리기 전
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/41abc84e-fd0a-45d6-845f-bf2fce925b91)
+# 터트린 후
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/3cec044e-6921-460a-ab74-8df1c50fb359)
+## 🍀Project 23 Decimal To Binary
+# 숫자 넣기 전
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/84c82594-22ee-4bd9-aa7e-fa8455e4c62b)
+# 숫자 넣은 후
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/c2be34c9-2511-40ca-b9d3-5ff3397b416c)
+## 🍀Project 24 Tic Tac Toe
+# 게임 시작 전
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/d25b90a9-c35d-4be3-ba91-5cfea2cfb145)
+# 게임 끝난 후
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/58739b3f-4a1b-4ff7-8cf2-3430794070c2)
