@@ -79,3 +79,13 @@
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/d25b90a9-c35d-4be3-ba91-5cfea2cfb145)
 # 게임 끝난 후
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/58739b3f-4a1b-4ff7-8cf2-3430794070c2)
+## 🍀Project 25 Stopwatch
+# 누르기 + 기록 버튼
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/17d9478a-5ffb-44b6-bd3f-3623bb6cdf14)
+## 🍀Project 26 Traffic Lights
+### 빨간불, 노랑불, 초록불
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/7bda19b3-acfa-4d98-b0cb-cc220e69d3cb)
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/b2f51d3d-4e75-4a45-97fa-90b9eb98adce)
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/2529648b-07d1-45b7-921c-b39278354ff3)
+## 🍀Project 27 Levitate Board
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/c3db1c7d-d148-4845-b8aa-cce3fee7c867)
