@@ -89,3 +89,10 @@
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/2529648b-07d1-45b7-921c-b39278354ff3)
 ## 🍀Project 27 Levitate Board
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/c3db1c7d-d148-4845-b8aa-cce3fee7c867)
+## 🍀Project 28 Dynamic Form Field
+# 필드 넣기 전
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/421728b3-a8ed-4b19-bfbf-09fb9cfa0ff9)
+# 필드를 넣은 후
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/6f9d384c-56e6-4189-b392-d620741d7020)
+## 🍀Project 29 Text Speed Control
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/cb2d904d-9ed2-4405-b903-280faff4abf3)
