@@ -96,3 +96,10 @@
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/6f9d384c-56e6-4189-b392-d620741d7020)
 ## 🍀Project 29 Text Speed Control
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/cb2d904d-9ed2-4405-b903-280faff4abf3)
+## 🍀Project 30 Wave Effect
+# 시작 전
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/023c9acf-4727-4bf6-ac97-b42c30776448)
+# 시작 후
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/759e3ec7-a287-49fa-a75d-c0f8a66f4580)
+## 🍀Project 31 Drawing Pad
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/8c69d697-3da6-4c94-aea7-3814023908d6)
