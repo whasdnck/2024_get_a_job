@@ -104,3 +104,8 @@
 ## 🍀Project 31 Drawing Pad
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/8c69d697-3da6-4c94-aea7-3814023908d6)
 ## 🍀Project 32 Weather App
+# 도시 적기 전
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/13837396-f510-4165-be18-a97ded6d1aef)
+# 도시 적은 후
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/35a7045d-5fd5-418f-9458-f1baad848800)
+## 🍀Project 33 Weather App
