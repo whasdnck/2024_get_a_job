@@ -113,3 +113,6 @@
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/91bb66d5-2423-4973-9361-5109c2cc3364)
 # 게임 시작 후
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/fa5517b5-6fbb-41ea-8402-03ddc3fedc36)
+## 🍀Project 34 Music Player
+# 노래 듣기
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/2a0a6696-151d-4b9d-bc08-cc5e4c47d0ce)
