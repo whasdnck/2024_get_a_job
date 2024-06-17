@@ -116,3 +116,11 @@
 ## 🍀Project 34 Music Player
 # 노래 듣기
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/2a0a6696-151d-4b9d-bc08-cc5e4c47d0ce)
+## 🍀Project 35 Key Code
+# 키보드 누르기 전
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/83c76d8e-6645-43d3-ad95-0f072f017e5e)
+# 누른 후
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/af6d1028-680d-44ed-94be-65f864b089f3)
+## 🍀Project 36 Simple Form Validation
+# 간단한 양식 검증
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/3b10c70c-9843-46df-8470-fa9fd4a99a35)
