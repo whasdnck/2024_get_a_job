@@ -128,3 +128,9 @@
 ## 🍀Project 36 Simple Form Validation
 # 간단한 양식 검증
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/3b10c70c-9843-46df-8470-fa9fd4a99a35)
+# (37-39)
+## 🍀Project 37 Lorem Ipsum Generate
+# 네모 칸에 아무것도 없을때
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/a826094d-e5e3-48d3-ac2c-78cf710fc918)
+# 네모 상자에 숫자를 적었을때
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/5f29ca30-18ef-40eb-bd40-ac4b7cd28526)
