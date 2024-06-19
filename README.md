@@ -134,3 +134,8 @@
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/a826094d-e5e3-48d3-ac2c-78cf710fc918)
 # 네모 상자에 숫자를 적었을때
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/5f29ca30-18ef-40eb-bd40-ac4b7cd28526)
+## 🍀Project 38 RPS Game
+# 게임 시작 전
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/6c7d3d0d-28a9-45f6-9924-470094bee594)
+# 게임 시작 후
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/55b8325c-fb7e-4059-8f79-5694d85f9869)
