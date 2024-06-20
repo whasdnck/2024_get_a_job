@@ -139,3 +139,8 @@
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/6c7d3d0d-28a9-45f6-9924-470094bee594)
 # 게임 시작 후
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/55b8325c-fb7e-4059-8f79-5694d85f9869)
+## 🍀Project 38 Snake Game
+# play 전
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/64d50529-c12e-451d-afb6-7ec1a349992a)
+# play 후
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/733aadd4-deba-4218-b7da-b3717b1b9710)
