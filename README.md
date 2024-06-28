@@ -144,8 +144,14 @@
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/64d50529-c12e-451d-afb6-7ec1a349992a)
 # play 후
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/733aadd4-deba-4218-b7da-b3717b1b9710)
+# (40-42)
 ## 🍀Project 40 Age Calculator
 # 내용 넣기 전
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/f8bac137-ec6d-45d3-b0c0-4893cb0126b1)
 # 내용 넣은 후
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/8242c85a-7c73-44d9-800f-a83f2f1ced24)
+## 🍀Project 41 Gradient Generator
+# 색깔 추가하기전
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/4b3f077f-3625-4888-9164-d15ff3aa0892)
+# 색깔 추가 후
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/02063e9d-244a-4fdb-a13d-9d4673818e1b)
