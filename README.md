@@ -157,3 +157,7 @@
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/02063e9d-244a-4fdb-a13d-9d4673818e1b)
 ## 🍀Project 42 Sorting Visualizer
 ![Sorting Visualizer - Chrome 2024-07-08 18-20-51](https://github.com/whasdnck/2024_get_a_job/assets/127116197/17f90987-44cc-4b1b-bac6-56bba0838754)
+## 🍀Project 43 Single Div Popsicles
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/3bc1f5f4-0a5c-49a4-8be0-f01031bed2f9)
+## 🍀Project 44 ryan
+![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/a38d1bdd-59ba-42a4-871b-72dbc5efcd09)
