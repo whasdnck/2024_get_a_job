@@ -156,3 +156,4 @@
 # 색깔 추가 후
 ![image](https://github.com/whasdnck/2024_get_a_job/assets/127116197/02063e9d-244a-4fdb-a13d-9d4673818e1b)
 ## 🍀Project 42 Sorting Visualizer
+![Sorting Visualizer - Chrome 2024-07-08 18-20-51](https://github.com/whasdnck/2024_get_a_job/assets/127116197/17f90987-44cc-4b1b-bac6-56bba0838754)
