@@ -166,3 +166,4 @@
 ## 🍀Project 46 Working Fan
 ![Working Fan CSS - Chrome 2024-07-10 08-47-11](https://github.com/whasdnck/2024_get_a_job/assets/127116197/fcf4c4cb-5cf6-465f-b316-20efd42ac363)
 ## 🍀Project Project 47 Ghost
+![Ghost - Chrome 2024-07-10 08-49-51](https://github.com/whasdnck/2024_get_a_job/assets/127116197/c3954f85-49c2-4430-a25e-a4a4dd8d72b9)
