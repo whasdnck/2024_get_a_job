@@ -164,5 +164,5 @@
 ## 🍀Project 45  Block Runner
 ![Block Runner - Chrome 2024-07-09 17-37-59](https://github.com/whasdnck/2024_get_a_job/assets/127116197/d7431f14-663e-432f-b88e-3c2755eefb8f)
 ## 🍀Project 46 Working Fan
-
+![Working Fan CSS - Chrome 2024-07-10 08-47-11](https://github.com/whasdnck/2024_get_a_job/assets/127116197/fcf4c4cb-5cf6-465f-b316-20efd42ac363)
 ## 🍀Project Project 47 Ghost
