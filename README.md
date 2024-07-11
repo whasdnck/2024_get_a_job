@@ -168,3 +168,4 @@
 ## 🍀Project Project 47 Ghost
 ![Ghost - Chrome 2024-07-10 08-49-51](https://github.com/whasdnck/2024_get_a_job/assets/127116197/c3954f85-49c2-4430-a25e-a4a4dd8d72b9)
 ## 🍀Project 48 Notes Taking App
+![Notes Taking App - Chrome 2024-07-11 18-05-01](https://github.com/whasdnck/2024_get_a_job/assets/127116197/8c60a0c0-23a3-49d9-b8b9-19875bf5fae2)
