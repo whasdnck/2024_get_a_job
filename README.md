@@ -169,3 +169,7 @@
 ![Ghost - Chrome 2024-07-10 08-49-51](https://github.com/whasdnck/2024_get_a_job/assets/127116197/c3954f85-49c2-4430-a25e-a4a4dd8d72b9)
 ## 🍀Project 48 Notes Taking App
 ![Notes Taking App - Chrome 2024-07-11 18-18-13](https://github.com/whasdnck/2024_get_a_job/assets/127116197/debb39c7-80c3-45f8-a880-41fe7180cd6c)
+## 🍀Project 49 Design Plant
+![image](https://github.com/user-attachments/assets/fd0908ab-6fea-414b-8315-217a5943d2a3)
+## 🍀Project 50 Captain America
+![image](https://github.com/user-attachments/assets/c3ad861b-c5fe-462b-aa1f-e6c89019a658)
