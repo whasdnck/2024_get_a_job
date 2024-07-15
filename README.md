@@ -174,5 +174,8 @@
 ## 🍀Project 50 Captain America
 ![image](https://github.com/user-attachments/assets/c3ad861b-c5fe-462b-aa1f-e6c89019a658)
 ## 🍀Project 51 Typing Platform
+![monkeytype - Chrome 2024-07-16 08-20-39](https://github.com/user-attachments/assets/ada56061-fc21-43e1-9422-137444fe3e33)
 ## 🍀Project 52 Emoji
+![image](https://github.com/user-attachments/assets/c1b07bf2-58e5-4aaf-a710-7c286f58b0ec)
 ## 🍀Project 53 apple
+![image](https://github.com/user-attachments/assets/4b4764e1-102b-4087-a69e-d890b480abf9)
