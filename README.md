@@ -173,3 +173,6 @@
 ![image](https://github.com/user-attachments/assets/fd0908ab-6fea-414b-8315-217a5943d2a3)
 ## 🍀Project 50 Captain America
 ![image](https://github.com/user-attachments/assets/c3ad861b-c5fe-462b-aa1f-e6c89019a658)
+## 🍀Project 51 Typing Platform
+## 🍀Project 52 Emoji
+## 🍀Project 53 apple
