@@ -180,3 +180,4 @@
 ## 🍀Project 53 apple
 ![image](https://github.com/user-attachments/assets/4b4764e1-102b-4087-a69e-d890b480abf9)
 ## 🍀Project 54 Navigation Menu Bar
+![Navigation Menu Bar - Chrome 2024-07-16 17-32-10](https://github.com/user-attachments/assets/cbb73b55-8b78-4182-95c7-612a10f5fe03)
