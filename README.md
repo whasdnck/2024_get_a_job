@@ -181,3 +181,7 @@
 ![image](https://github.com/user-attachments/assets/4b4764e1-102b-4087-a69e-d890b480abf9)
 ## 🍀Project 54 Navigation Menu Bar
 ![Navigation Menu Bar - Chrome 2024-07-16 17-32-10](https://github.com/user-attachments/assets/cbb73b55-8b78-4182-95c7-612a10f5fe03)
+## 🍀Project 55 Bear
+![image](https://github.com/user-attachments/assets/a67c3a13-5082-4b4b-b099-6591e54c1b7e)
+## 🍀Project 56 Carro
+![image](https://github.com/user-attachments/assets/ab4148fe-d5fb-4c2b-af46-3ee877c46a3a)
