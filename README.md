@@ -187,3 +187,5 @@
 ![image](https://github.com/user-attachments/assets/ab4148fe-d5fb-4c2b-af46-3ee877c46a3a)
 ## 🍀Project 57 Movie App
 ![Movie App - Chrome 2024-08-12 17-55-35](https://github.com/user-attachments/assets/88d377c9-4e2a-423d-b79c-b1ca8500e185)
+## 🍀Project 58 Quiz App
+![Quiz App - Chrome 2024-08-13 16-45-35](https://github.com/user-attachments/assets/32c7a023-118a-47d9-a7a8-e4921342643b)
